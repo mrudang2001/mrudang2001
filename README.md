@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mrudang!
-👩🏻‍💻 AI/ML Engineer with a knack for building innovative solutions that solve real-world problems.<br/>
+👩🏻‍💻 Product Manager with a knack for building innovative solutions that solve real-world problems.<br/>
 👩🏻‍🎓 Studied Computer Science at the Long Island University, Brooklyn<br/>
 
 ---
@@ -9,25 +9,6 @@
 ### 🧑‍💻 Programming & ML Libraries  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat&logoColor=white)
-
-### 📊 Data Wrangling & Visualization  
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3B3B3B?style=flat)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-43B6C7?style=flat)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat)
-
-### 🤖 LLM & Generative AI  
-![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=flat&logo=openai&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-000000?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat&logoColor=white)
 
 ### 🧩 Backend & APIs  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
