@@ -50,7 +50,7 @@ This shift has reshaped my journey, and I now see myself as an AI/ML engineer, p
 ## 📫 Connect with Me
 
 📧 patelmrudang2232@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/vatsal-roy](https://www.linkedin.com/in/mrudang2001)  
+🔗 [LinkedIn](https://www.linkedin.com/in/mrudang2001)  
 
 ---
 
